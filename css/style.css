@@ -1,0 +1,209 @@
+#nem_is {
+    margin: 2px 2px 2px 2px;
+    padding: 4px;
+    border: 2px solid rgba(239, 255, 217, 0.56);
+    border-radius:5px;    
+    color:  rgba(239, 255, 217, 0.56);
+}
+.bg-dark  {
+    background-color: rgba(49, 14, 14, 0) !important
+}
+.bg-light{
+    background-color: rgba(167, 34, 34, 0) !important
+
+}
+.home {
+     background: url(../images/1.jpg) no-repeat center;
+    width: 100%;
+/*    height: 656px;*/
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.inhome {
+    background-color: rgba(0, 0, 0, 0.92);
+  width: 100%;
+    text-align: center;
+    padding: 0px;
+/*        height: 656px;*/
+
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+#navbarSupportedContent {
+    margin: 0px 0px 0px 885px;
+    color: #31ffff !important
+}
+.linknaver {
+    color: rgba(239, 255, 217, 0.56) !important;
+    font-size: 20px;
+    margin: 0px 10px 0px 0px;
+    
+}
+.linknaver:hover {
+    color: rgb(59, 55, 55) !important;
+    font-size: 21px;
+}
+.inhomem {
+    padding: 200px 0px 0px 0px;
+    
+}
+.imginfo{
+    width: 220px;
+    height: 220px;
+        border: 5px solid rgba(239, 255, 217, 0.56);
+    vertical-align: middle;
+        cursor: pointer;
+    border-radius: 50%;
+
+}
+.imginfo:hover{
+    width: 223px;
+    height: 223px;
+    border: 6px solid rgba(175, 190, 155, 0.65); !important;
+    vertical-align: middle;
+        cursor: pointer;
+    border-radius: 50%;
+
+}
+.imginhomeinfo{
+    margin: auto;
+}
+.tetleinimage {
+/*    padding: 230px 0px 240px 0px;*/
+    margin: 30px 0px 0px 0px;
+    text-align: left;    
+
+}
+.card-title {
+    font-size: 23px;
+    color: aliceblue;
+}
+.card-text{
+    color: rgba(236, 239, 239, 0.79);
+    font-size: 15px;
+}
+.card {
+    background-color: rgba(165, 17, 17, 0) !important;
+}
+.card {
+        border: 0px solid rgba(0, 0, 0, 0.125);
+
+    }
+
+.fa-github-square {
+        margin: 30px 0px 0px 10px;
+    color: white;
+    font-size: 50px
+}
+.fa-facebook-square {
+    margin: 30px 0px 0px 10px;
+     color: white;
+    font-size: 50px
+}
+.fa-twitter-square {
+     margin: 30px 0px 0px 10px;
+     color: white;
+    font-size: 50px
+}
+.fa-linkedin {
+      margin: 30px 0px 0px 10px;
+     color: white;
+    font-size: 50px
+}
+.inhomeh{
+    height: 150px
+}
+.fixed-top {
+        position: absolute;
+}
+
+
+
+.body {
+   background-color: #ffffff;
+    width: 100%;
+    height: 300px;
+}
+.nav-link {
+    padding: 10px 0px 10px 0px;
+    margin: 0px 0px 0xp 0px;
+    text-align: center;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color:rgba(48, 49, 51, 0.67);
+}
+.rowall {
+        margin-right: 0px;
+}
+.formar {
+   margin: 30px 0px 0px 0px;
+}
+.allnavlink {
+    color: rgba(48, 49, 51, 0.67);
+    font-family: sans-serif;
+       font-style: oblique;
+    font-size:16px;
+}
+.allnavlink:hover {
+    color:rgba(48, 49, 51, 0.67);
+    font-family: sans-serif;
+        background-color: rgba(104, 106, 111, 0.4);
+
+}
+
+
+
+
+
+.end {
+     background: url(../images/3.jpg)  no-repeat center;
+   width: 100%;
+/*    height: 656px;*/
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.bordend {
+ background-color: rgba(0, 0, 0, 0.87);
+  width: 100%;
+/*    height: 656px;*/
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fromend {
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+.forinfocont {
+    font-size: 22px;
+    color: beige
+}
+.fa-phone-square  {
+    margin: 30px 0px -4px 10px;
+        font-size: 30px;
+}
+.fa-envelope-square {
+        font-size: 30px;
+        margin: 30px 0px -4px 10px;
+}
+.fa-telegram-plane {
+        font-size: 30px;
+        margin: 35px 0px -4px 10px;
+}
+.fa-instagram {
+     font-size: 30px;
+        margin: 35px 0px -4px 10px;
+}
+.by {
+     font-size: 34px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    padding: 40px 0px 90px 0px
+}
